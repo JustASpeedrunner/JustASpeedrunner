@@ -14,3 +14,4 @@ Website: [JustASpeedrunner.github.io](https://justaspeedrunner.github.io/)
 ## School Projects
 -[How To Make a Python Calculator Presentation](https://github.com/JustASpeedrunner/DigitalLiteracyCalculator)  
 -[Rewritten version of the above made of my own volition in Lua.](https://github.com/JustASpeedrunner/DigitalLiteracyCalculatorRewrite)  
+-[Things I made to make geometry class easier.](https://github.com/JustASpeedrunner/ThingsToMakeGeometryClassEasier)
