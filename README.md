@@ -1,6 +1,6 @@
 ### Just A Speedrunner - Michael Puckett
 ## About Me
-I am currently a sophomore in highschool, I program mainly in Lua and C# with Unity but I dabble in HTML.  
+I am currently a sophomore in highschool, I program mainly in Lua, Rust and C# with Unity but I dabble in HTML.  
 You may contact me through my Discord server, linked [here.](https://discord.gg/9xKQQYkdzH)
 
 ## Current Public Projects
