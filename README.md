@@ -16,5 +16,5 @@ Website: [JustASpeedrunner.github.io](https://justaspeedrunner.github.io/)
 -[Rewritten version of the above made of my own volition in Lua.](https://github.com/JustASpeedrunner/DigitalLiteracyCalculatorRewrite)  
 
 ## Want to support me?
-Send me some Monero to this address:
+Send me some [Monero](https://www.getmonero.org/) to this address:
 8A2RDRNWgxWBgitZgJNtZSduB695D57mBcJjSAYEZcPeCvtH2Lpni43Z7vCMK4tZ2UBtP4beW1Sy3RhaRFGZPR6v46J3sQA
