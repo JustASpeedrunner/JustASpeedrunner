@@ -14,6 +14,7 @@ Website: [JustASpeedrunner.github.io](https://justaspeedrunner.github.io/)
 ## School Projects
 -[How To Make a Python Calculator Presentation](https://github.com/JustASpeedrunner/DigitalLiteracyCalculator)  
 -[Rewritten version of the above made of my own volition in Lua.](https://github.com/JustASpeedrunner/DigitalLiteracyCalculatorRewrite)  
+-[Rewritten version of the prior two, again made of my own volition in Rust.](https://github.com/JustASpeedrunner/DigitalLiteracyCalculatorRewritePartTwo)
 
 ## Want to support me?
 Send me some [Monero](https://www.getmonero.org/) to this address:
