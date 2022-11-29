@@ -19,6 +19,6 @@ Website: [JustASpeedrunner.github.io](https://justaspeedrunner.github.io/)
 
 ## Want to support me?
 Send me some [Monero](https://www.getmonero.org/) to this address:
-8A2RDRNWgxWBgitZgJNtZSduB695D57mBcJjSAYEZcPeCvtH2Lpni43Z7vCMK4tZ2UBtP4beW1Sy3RhaRFGZPR6v46J3sQA
+48VHgxDR3V8bmHmLjSfEC63Cofr3c76e69BhJ5zxsjcaf4tdkG8Lzhrg5iZHZuVWyXHNWiM2vPG9NQHmCeBfD5EDS9oQvRF
 
 Why crypto you may be wondering, well it's just easier than stuff like PayPal, that's it.
