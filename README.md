@@ -1,6 +1,6 @@
 ### Just A Speedrunner - Michael Puckett
 ## About Me
-I am currently in highschool, I program mainly in Rust but I occasionally use Lua, C# and, if you consider it programming, HTML.
+I am currently in highschool, I program mainly in Rust but I occasionally use Lua and, if you consider it programming, HTML.
 
 You may contact me through my Discord server, linked [here,](https://discord.gg/9xKQQYkdzH) or if you prefer my email is jaspeedrunnnerofficial@gmail.com
 
