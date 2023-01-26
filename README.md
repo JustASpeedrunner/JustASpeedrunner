@@ -1,4 +1,4 @@
-### Just A Speedrunner - Michael Puckett
+### Just A Speedrunner - Thomas Puckett
 ## About Me
 I am currently in highschool, I program mainly in Rust but I occasionally use Lua and, if you consider it programming, HTML.
 
@@ -6,11 +6,6 @@ You may contact me through my Discord server, linked [here,](https://discord.gg/
 
 ## Current Public Projects
 Website: [JustASpeedrunner.github.io](https://justaspeedrunner.github.io/)
-
-## Current Private Projects
--Harem Hoe Discord Bot: A private project made to add simple functionalities to a friend's Discord server.  
--Child Bot Discord Bot: A private project made to act like an average obnoxious 12 year old in a friend's Discord server.  
--Weed Dog: An RPG made originally in Lua with the Love2D library/framework, but now with Unity.  
 
 ## School Projects
 -[How To Make a Python Calculator Presentation](https://github.com/JustASpeedrunner/DigitalLiteracyCalculator)  
