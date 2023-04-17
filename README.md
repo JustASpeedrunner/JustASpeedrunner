@@ -13,7 +13,7 @@ Website: [JustASpeedrunner.github.io](https://justaspeedrunner.github.io/)
 -[Rewritten version of the prior two, again made of my own volition in Rust.](https://github.com/JustASpeedrunner/DigitalLiteracyCalculatorRewritePartTwo)
 
 ## Want to support me?
-Send me some [Monero](https://www.getmonero.org/) to this address:
-48VHgxDR3V8bmHmLjSfEC63Cofr3c76e69BhJ5zxsjcaf4tdkG8Lzhrg5iZHZuVWyXHNWiM2vPG9NQHmCeBfD5EDS9oQvRF
+Donate some [Monero](https://www.getmonero.org/) to this address:
+46ExBswshFq2H4rWoAmY7m1suGNzbmLvk5WE6ZsLhmFy17L8KkDkSrmD673GS8CBZh962RDVVokfdAnJ98mVA4yB5h5DNXQ
 
-Why crypto you may be wondering, well it's just easier than stuff like PayPal, that's it.
+Donate through Cash App: $66lol99
