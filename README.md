@@ -5,8 +5,8 @@ I am currently in highschool, I program mainly in Rust but I occasionally use Lu
 You may contact me through my Discord server, linked [here,](https://discord.gg/9xKQQYkdzH) or if you prefer my email is jaspeedrunnnerofficial@gmail.com
 
 ## Current Public Projects
-Website: [JustASpeedrunner.github.io](https://justaspeedrunner.github.io/)
-Screenctrl: [Source](https://github.com/JustASpeedrunner/screenctrl)
+- Website: [JustASpeedrunner.github.io](https://justaspeedrunner.github.io/)
+- Screenctrl: [Source](https://github.com/JustASpeedrunner/screenctrl)
 
 ## School Projects
 -[How To Make a Python Calculator Presentation](https://github.com/JustASpeedrunner/DigitalLiteracyCalculator)  
