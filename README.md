@@ -6,6 +6,7 @@ You may contact me through my Discord server, linked [here,](https://discord.gg/
 
 ## Current Public Projects
 Website: [JustASpeedrunner.github.io](https://justaspeedrunner.github.io/)
+Screenctrl: [Source](https://github.com/JustASpeedrunner/screenctrl)
 
 ## School Projects
 -[How To Make a Python Calculator Presentation](https://github.com/JustASpeedrunner/DigitalLiteracyCalculator)  
