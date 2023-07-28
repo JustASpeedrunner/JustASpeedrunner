@@ -2,10 +2,11 @@
 ## About Me
 I am currently in highschool, I program mainly in Rust but I occasionally use Lua and, if you consider it programming, HTML.
 
-You may contact me through my Discord server, linked [here,](https://discord.gg/9xKQQYkdzH) or if you prefer my email is jaspeedrunnnerofficial@gmail.com
+You may contact me through my [Discord](https://discord.gg/nhmbDuKG5) (if the link is broken add @JustASpeedrunner) or if you prefer my email is jaspeedrunnnerofficial@gmail.com
 
 ## Current Public Projects
 - Website: [JustASpeedrunner.github.io](https://justaspeedrunner.github.io/)
+- [ScreenCtrl](https://github.com/JustASpeedrunner/screenctrl): A GUI tool to manage your monitor's brightness, using brightnessctl, and color temprature, using xsct, in Xorg. 
 
 ## School Projects
 -[How To Make a Python Calculator Presentation](https://github.com/JustASpeedrunner/DigitalLiteracyCalculator)  
@@ -13,7 +14,4 @@ You may contact me through my Discord server, linked [here,](https://discord.gg/
 -[Rewritten version of the prior two, again made of my own volition in Rust.](https://github.com/JustASpeedrunner/DigitalLiteracyCalculatorRewritePartTwo)
 
 ## Want to support me?
-Donate some [Monero](https://www.getmonero.org/) to this address:
-46ExBswshFq2H4rWoAmY7m1suGNzbmLvk5WE6ZsLhmFy17L8KkDkSrmD673GS8CBZh962RDVVokfdAnJ98mVA4yB5h5DNXQ
-
 Donate through Cash App: $66lol99
