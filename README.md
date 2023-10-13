@@ -1,10 +1,5 @@
-### Just A Speedrunner - Thomas Puckett
-## About Me
-I am currently in highschool, I program mainly in Rust.
-
-You may contact me through my [Discord](https://discord.gg/nhmbDuKG5) (if the link is broken add @JustASpeedrunner) or if you prefer my email is jaspeedrunnnerofficial@gmail.com
-
-## Current Public Projects
+# Hey, I'm Speedy
+I'm a highschool student and Rust developer. Take a look at some of my projects below:
 - Website: [JustASpeedrunner.github.io](https://justaspeedrunner.github.io/)
 - [ScreenCtrl](https://github.com/JustASpeedrunner/screenctrl): A GUI tool to manage your monitor's brightness, using brightnessctl, and color temprature, using xsct, in Xorg.
 
